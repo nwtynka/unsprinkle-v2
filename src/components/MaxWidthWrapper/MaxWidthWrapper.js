@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from 'styled-components' ;
 
 const MaxWidthWrapper = styled.div`
   max-width: calc(1200 / 16 * 1rem);
